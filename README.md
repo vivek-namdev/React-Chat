@@ -58,8 +58,5 @@ Now that you've set up your development environment, it's time to start building
 - **Add Styles with Tailwind CSS:** Utilize Tailwind CSS classes to style your components directly in your JSX files or create new CSS files and import them into your components.
 - **Customize Tailwind Setup:** Customize your Tailwind setup by adding your own `tailwind.config.js` file if needed.
 
-## Contributing 🤝
-Contributions to ReactChat are welcome! If you have any suggestions or encounter any issues, please feel free to open an issue or a pull request on [GitHub](https://github.com/urstrulynishkarsh/ReactChat).
-
 ## Conclusion 🎉
 Congratulations on setting up your Socket.IO Chat Room with Real-Time Location Sharing project! Reflect on what you've learned and celebrate your achievements!
